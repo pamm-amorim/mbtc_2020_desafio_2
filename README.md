@@ -1,5 +1,5 @@
 # MBTC 2020 - DESAFIO 2 - UNINASSAU
-Desafio 2 (UNINASSAU) da Maratona Behind the Code 
+Desafio 2 (UNINASSAU) da Maratona Behind the Code. Desafio envolvendo Ciência de Dados, feature engineering, desenvolvimento e deployment de modelos de Machine Learning com Jupyter Notebooks e Watson Machine Learning.
 
 https://github.com/maratonadev-br/desafio-2-2020
 
